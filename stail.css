@@ -1,0 +1,43 @@
+body{
+	background-color:black;
+}
+b{
+	color:white;
+	letter-spacing:3px;
+	font-size:20px;
+}
+table{
+	width:100%;
+}
+td{
+	text-align:center;
+}
+table img{
+	width:200px;
+}
+header{
+	border-bottom:3px solid white;
+	padding:2%;
+}
+h1{
+	font-size:45px;
+}
+h2, h1{
+	color:white;
+	text-align:center;
+	letter-spacing:5px;
+}
+p{
+	color:white;
+}
+main{
+	font-size:20px;
+	padding:3%;
+}
+main img{
+	width:100%;
+}
+
+h2,p{
+	color:white
+}
